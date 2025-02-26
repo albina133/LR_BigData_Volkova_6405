@@ -1,1 +1,2 @@
-# LR_BigData_Volkova_6405
+# Лабораторные работы
+## 1 - MapReduce
